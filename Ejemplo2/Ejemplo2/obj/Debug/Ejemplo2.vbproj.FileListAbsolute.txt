@@ -16,3 +16,7 @@ H:\Desarrollo\Visual Basic .NET\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\WindowsAppl
 H:\Desarrollo\Visual Basic .NET\Ejemplo2\Ejemplo2\Ejemplo2\bin\Debug\EntityFramework.dll
 H:\Desarrollo\Visual Basic .NET\Ejemplo2\Ejemplo2\Ejemplo2\bin\Debug\EntityFramework.xml
 H:\Desarrollo\Visual Basic .NET\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\WindowsApplication1.frmEnlazado.resources
+H:\GitHub\PracticasVB\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+H:\GitHub\PracticasVB\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+H:\GitHub\PracticasVB\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.xml
+H:\GitHub\PracticasVB\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb

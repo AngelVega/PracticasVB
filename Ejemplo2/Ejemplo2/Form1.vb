@@ -3,7 +3,7 @@
 Public Class frmMySQL
 
     Private Sub cmdExecutar_Click(sender As Object, e As EventArgs) Handles cmdExecutar.Click
-
+        'Primer prueba de codigo
         Dim Conexion As New MySqlConnection("server=localhost;user=root;password=root;database=dbprueba")
         Dim Comando As New MySqlCommand("Select * from tbUsuarios", Conexion)
         Dim ResultadoComando As MySqlDataReader
